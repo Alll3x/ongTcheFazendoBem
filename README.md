@@ -1,1 +1,1 @@
-First Commit
+Projeto voltado para apoiar a ONG Tchê Fazendo o bem, visando renovar o ambiente virtual deles, que além de desatualizado, os organizadores não possuem mais acesso para editar o conteúdo.
