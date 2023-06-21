@@ -26,14 +26,14 @@ Projeto voltado para apoiar a ONG Tchê Fazendo o bem, visando renovar o ambient
   * Mockups (Figma)
       -Mobile: https://www.figma.com/file/Dijsy6PMnB6y2GUJRTo8Ve/ONG-Tch%C3%AA-Fazendo-o-Bem?type=design&node-id=0%3A1&t=SYXY0LhF0JWXU9Nm-1
 
-    * Palheta de cor
-      - Preto Puro: #000000 
-      - Branco Puro: #FFFFFF
-      - Cinza Claro #F5F5F5 
-      - Amarelo Vibrante: #FFD700
-      - Verde Esperança: #00FF00
-      - Azul Celeste: #00BFFF
-      - Rosa Vivo: #FF007F
+  * Palheta de cor
+    - Preto Puro: #000000 
+    - Branco Puro: #FFFFFF
+    - Cinza Claro #F5F5F5 
+    - Amarelo Vibrante: #FFD700
+    - Verde Esperança: #00FF00
+    - Azul Celeste: #00BFFF
+    - Rosa Vivo: #FF007F
 
  Ainda nn usado / talvez usar
  - Laranja Vibrante: #FF6600
