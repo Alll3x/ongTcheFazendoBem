@@ -2,8 +2,8 @@ Projeto voltado para apoiar a ONG Tchê Fazendo o bem, visando renovar o ambient
 
 # Informações Importantes para o projeto
   * Infos de contato
-    - Email:sandra-santos690@hotmail.com
-    - Celular:(54) 9 84198-988
+    - Email: sandra-santos690@hotmail.com
+    - Celular: (54) 9 8419-8988
 
   * Redes Sociais ONG
     - Facebook Ong: https://www.facebook.com/tchefazendoobem?mibextid=ZbWKwL
@@ -11,7 +11,7 @@ Projeto voltado para apoiar a ONG Tchê Fazendo o bem, visando renovar o ambient
     - Facebook Liga do Bem: https://www.facebook.com/profile.php?id=100063953408929&mibextid=ZbWKwL
 
   * Maneiras de doação
-    - Pix: Celular (54) 9 84198-988
+    - Pix: Celular (54) 9 8419-8988
     - Endereço: Rua Martin Neves da Rocha, 690 Bairro Centenário Caxias do Sul - RS CEP: 95045-167
 
   * Insipirações
